@@ -1,0 +1,41 @@
+
+canvas {
+  border: 2px solid #2D2D2A;
+  border-radius: 5px;
+}
+body {
+  background: #C14953;
+}
+h1 {
+  font-family: Arial;
+  color: #2D2D2A;
+}
+p {
+  font-family: Arial;
+  color: #2D2D2A;
+}
+h5 {
+  font-family: Arial;
+  color: #2D2D2A;
+}
+h3 {
+  font-family: Arial;
+  color: #2D2D2A;
+}
+
+.my_Button {
+  border-radius: 5px;
+  background-color: #848FA5;
+  color: #2D2D2A;
+  border: none;
+  font-size: 16px;
+  cursor: pointer;
+}
+#reset_Button{
+  border-radius: 5px;
+  background-color: #E5DCC5;
+  color: #2D2D2A;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
